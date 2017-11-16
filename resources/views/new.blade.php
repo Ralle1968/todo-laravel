@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-  <a href=""></a>
+  New page for us, asshole!
 @endsection
